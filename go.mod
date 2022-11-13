@@ -3,7 +3,7 @@ module github.com/ohkinozomu/c8def
 go 1.19
 
 require (
-	github.com/jessevdk/go-flags v1.4.0
+	github.com/jessevdk/go-flags v1.5.0
 	github.com/k0kubun/sqldef v0.13.18
 	github.com/lib/pq v1.10.7
 	github.com/pganalyze/pg_query_go/v2 v2.2.0
