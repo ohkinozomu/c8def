@@ -24,4 +24,4 @@ require (
 	google.golang.org/protobuf v1.23.0 // indirect
 )
 
-replace github.com/k0kubun/sqldef => github.com/ohkinozomu/sqldef v0.0.0-20221105193931-e06d732e23ce
+replace github.com/k0kubun/sqldef => github.com/ohkinozomu/sqldef v0.0.0-20221104162526-7dc6be146f69
