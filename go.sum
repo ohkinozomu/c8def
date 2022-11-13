@@ -20,6 +20,8 @@ github.com/mattn/go-colorable v0.1.13 h1:fFA4WZxdEF4tXPZVKMLwD8oUnCTTo08duU7wxec
 github.com/mattn/go-colorable v0.1.13/go.mod h1:7S9/ev0klgBDR4GtXTXX8a3vIGJpMovkB8vQcUbaXHg=
 github.com/mattn/go-isatty v0.0.16 h1:bq3VjFmv/sOjHtdEhmkEV4x1AJtvUvOJ2PFAZ5+peKQ=
 github.com/mattn/go-isatty v0.0.16/go.mod h1:kYGgaQfpe5nmfYZH+SKPsOc2e4SrIfOl2e/yFXSvRLM=
+github.com/ohkinozomu/sqldef v0.0.0-20221104162526-7dc6be146f69 h1:FFjeViPkMy6KIH+BNc7lJyvWMy1CEJsjN8DvQfoDLfI=
+github.com/ohkinozomu/sqldef v0.0.0-20221104162526-7dc6be146f69/go.mod h1:X/x8XeX4BPRLwYdcPGwOyBY3LIIGAnDDAIGOEqNRcek=
 github.com/ohkinozomu/sqldef v0.0.0-20221105193931-e06d732e23ce h1:gToBXXYQL8gXBf5W1hE6yV/qdceIv4YGk4ajYCpLAdI=
 github.com/ohkinozomu/sqldef v0.0.0-20221105193931-e06d732e23ce/go.mod h1:kxZ4GAyVYOKJ3cYXrAB43xLhtnaUb+AfmM6Wl0lyS1E=
 github.com/pganalyze/pg_query_go/v2 v2.2.0 h1:OW+reH+ZY7jdEuPyuLGlf1m7dLbE+fDudKXhLs0Ttpk=
