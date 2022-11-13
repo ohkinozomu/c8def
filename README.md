@@ -10,6 +10,12 @@ CockroachDB's compatibility with PostgreSQL is excellent, but there are some dif
 
 This library is very experimental. It will exterminate cockroaches.
 
+## Example
+
+```bash
+PGSSLMODE='verify-full' PGOPTIONS='--cluster=[cluster name]' go run cmd/c8def/c8def.go -h free-tier.gcp-us-central1.cockroachlabs.cloud -U [user] -p 26257 -W [password] --dry-run [database] -f schema.sql
+```
+
 ## License
 
 MIT
