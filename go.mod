@@ -9,6 +9,7 @@ require (
 	github.com/pganalyze/pg_query_go/v2 v2.2.0
 	golang.org/x/term v0.0.0-20210406210042-72f3dc4e9b72
 	gopkg.in/yaml.v2 v2.4.0
+	gopkg.in/yaml.v3 v3.0.1
 )
 
 require (
