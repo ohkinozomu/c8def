@@ -4,7 +4,7 @@ go 1.19
 
 require (
 	github.com/jessevdk/go-flags v1.4.0
-	github.com/k0kubun/sqldef v0.13.18
+	github.com/k0kubun/sqldef v0.17.2
 	github.com/lib/pq v1.10.7
 	github.com/pganalyze/pg_query_go/v2 v2.2.0
 	golang.org/x/term v0.0.0-20210406210042-72f3dc4e9b72
